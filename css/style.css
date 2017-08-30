@@ -1,3 +1,20 @@
 body { 
-    background-color:red;
-      }  
+    background-color:none;
+}  
+
+#header {
+    width:100%;
+    background-color: beige;
+}
+
+#nav {
+    width:100%; 
+    background-color:aqua;
+}
+
+.menu {
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+    list-style-type: none;
+}

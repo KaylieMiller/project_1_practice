@@ -18,7 +18,8 @@ body {
     justify-content: space-around;
     list-style-type: none;
 }
+
 #main-content-wrapper {
-    background-color: darkseagreen;
-    width: 80%
+    background-color: yellowgreen;
+    width: 80%;
 }
